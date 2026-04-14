@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏋️ AI Gym Trainer
 
 A **computer vision-powered fitness assistant** using MediaPipe Pose for real-time exercise tracking, form analysis, and workout analytics.
