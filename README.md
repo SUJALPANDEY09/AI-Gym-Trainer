@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏋️ AI Gym Trainer
 
 A **computer vision-powered fitness assistant** using MediaPipe Pose for real-time exercise tracking, form analysis, and workout analytics.
@@ -88,3 +89,7 @@ app.py / web_app.py   ← Entry points
 ## 📐 How Accuracy is Scored
 
 Each rep's accuracy = `max(0, 100 - deviation × 1.5)` where *deviation* is the absolute difference between the deepest angle achieved and the ideal target angle (90° for most exercises). A perfect deep squat/pushup scores 100%.
+=======
+# AI-Gym-Trainer
+AI-powered Gym Trainer using Computer Vision for pose detection, rep counting, and posture correction
+>>>>>>> 6e391174e9f3140c5486de71bb2eaa2130021d2b
